@@ -1,0 +1,2 @@
+# othelloutec
+Juguemos othello
